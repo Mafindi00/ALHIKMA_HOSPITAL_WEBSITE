@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    font-family: Arial;
+    background-color: #f2f2f2;
+    padding-top: 100px;
+}
+
+input {
+    display: block;
+    margin: 10px auto;
+    padding: 8px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: darkgreen;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: green;
+}
+
+#error {
+    color: red;
+}
